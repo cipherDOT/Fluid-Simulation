@@ -1,5 +1,5 @@
 let grid;
-let rez = 30;
+let rez = 24;
 let radius_limit = rez / 2;
 
 function t_array(cols, rows) {
